@@ -12,7 +12,7 @@ L’objectif est d’étudier le comportement d’achat des clients, analyser l�
 
 ## Compétences
 - Analyses temporelles (tendance, saisonnalité)  
-- Tests statistiques  
+- Tests statistiques qualitatifs et quantitatifs sur des données pour tester et valider des hypothèses (Khi-2, T  de Student, ANOVA...)  
 - Prévisions (modèles simples)  
 - Construction de visualisations analytiques  
 
